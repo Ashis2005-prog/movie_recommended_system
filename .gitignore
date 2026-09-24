@@ -1,27 +1,5 @@
-# Python bytecode and cache
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-
-# Environments and virtual environments
-.env
 .venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# IDEs and editors
-.vscode/
+.ipynb_checkpoints
 .idea/
-*.swp
-*.swo
-
-# Streamlit config
-.streamlit/secrets.toml
-
-# OS generated files
-.DS_Store
-Thumbs.db
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
