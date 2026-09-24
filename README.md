@@ -2,7 +2,7 @@
 
 A content-based movie recommendation web app built with **Python**, **scikit-learn**, **Pickle** and **Streamlit**. Pick a movie you like and the app suggests similar movies based on their content (genres, keywords, cast, crew and overview).
 
-🔗 **Live Demo:** [Add your deployed app link here](https://your-app-link.com)
+🔗 **Live Demo:** https://movierecommendedsystem-a7aruny7sdbrhckm9eefxb.streamlit.app/
 
 ---
 
